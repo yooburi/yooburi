@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there!
+
 
 <!--
 **yooburi/yooburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,16 @@ Here are some ideas to get you started:
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Project: 🚗 Mando HL Klemove Autonomous Driving Competition
+https://github.com/yooburi/Mandol_ws
+
+### Project: ♿️ voice_based_wheelchair
+https://github.com/yooburi/voice-based-wheelchair
+
+![Image](https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550)
+
+### Project: 📷 Camera-LiDAR sensor fusion
+https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
+
+![Image](https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf)
+### Project: 🚗 The 4th International university student EV Autonomous driving Competition
