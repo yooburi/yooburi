@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 https://github.com/yooburi/Mandol_ws
 
 ## ♿️ voice_based_wheelchair
+A ROS 2-based voice-controlled electric wheelchair system that supports autonomous movement of people with quadriplegia.
+
+전신마비 장애인의 자율적인 이동을 지원하는 ROS 2 기반 음성 제어 전동휠체어 시스템.
+
 https://github.com/yooburi/voice-based-wheelchair
 
 ![Image](https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550)
