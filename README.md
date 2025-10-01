@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 https://github.com/yooburi/Mandol_ws
 
 ## ♿️ voice_based_wheelchair
-ttps://github.com/yooburi/voice-based-wheelchair
+https://github.com/yooburi/voice-based-wheelchair
 
 ![Image](https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550)
 
