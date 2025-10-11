@@ -36,7 +36,7 @@ https://github.com/yooburi/voice-based-wheelchair
 ## 📷 Camera-LiDAR sensor fusion
 https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
 
-<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="400" height="800"/>
 
 ## 🚗 The 4th International university student EV Autonomous driving Competition
 https://github.com/yooburi/mono-dynamic-obstacle-detector
