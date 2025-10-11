@@ -31,14 +31,15 @@ A ROS 2-based voice-controlled electric wheelchair system that supports autonomo
 
 https://github.com/yooburi/voice-based-wheelchair
 
-![Image](https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550)
+<img src="https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550"  width="500" height="1000"/>
 
 ## 📷 Camera-LiDAR sensor fusion
 https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
 
-<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="500" height="1000"/>
 
 ## 🚗 The 4th International university student EV Autonomous driving Competition
 https://github.com/yooburi/mono-dynamic-obstacle-detector
 
-![Image](https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961)
+<img src="https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961"  width="500" height="1000"/>
+
