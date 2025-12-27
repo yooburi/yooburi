@@ -29,7 +29,16 @@ A ROS 2-based voice-controlled electric wheelchair system that supports autonomo
 
 https://github.com/yooburi/voice-based-wheelchair
 
-<img src="https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550"  width="500" height="1000"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0e381624-1816-4ee6-92d2-233467a90550" alt="첫 번째 GIF 이미지" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4a6eb0e5-5722-42d2-8d47-8baca9f896f0" alt="두 번째 GIF 이미지" width="400">
+    </td>
+  </tr>
+</table>
 
 ## 📷 Camera-LiDAR sensor fusion
 https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
