@@ -47,7 +47,7 @@ Camera and 3D lidar sensor fusion for autonomous driving.
 
 https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
 
-<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="500" height="1000"/>
+<img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="400" height="800"/>
 
 ## 🚗 The 4th International university student EV Autonomous driving Competition
 Dynamic object detection using a mono camera.
@@ -56,7 +56,7 @@ Dynamic object detection using a mono camera.
 
 https://github.com/yooburi/mono-dynamic-obstacle-detector
 
-<img src="https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961"  width="500" height="1000"/>
+<img src="https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961"  width="400" height="800"/>
 
 ## 🚗 Mando HL Klemove Autonomous Driving Competition
 GPS based autonomous driving & Judgment layer design
