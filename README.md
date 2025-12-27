@@ -67,7 +67,7 @@ https://github.com/yooburi/Mandol_ws
 
 <img src="https://github.com/user-attachments/assets/b4ccc93b-dd37-4c66-bd16-64323058c0ef"  width="300" height="600"/>
 
-## ROS2 Education
+## 📝 ROS2 Education
 ROS2 Education for club members
 
 ROS2 입문자를 위한 교육 진행
