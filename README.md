@@ -41,17 +41,29 @@ https://github.com/yooburi/voice-based-wheelchair
 </table>
 
 ## 📷 Camera-LiDAR sensor fusion
+Camera and 3D lidar sensor fusion for autonomous driving.
+
+자율주행을 위한 카메라 및 3D 라이다 센서 퓨전.
+
 https://github.com/yooburi/LiDAR-Camera-Cone-Fusion
 
 <img src="https://github.com/user-attachments/assets/25c7f57e-770a-4d38-b638-09bac19d1bdf"  width="500" height="1000"/>
 
 ## 🚗 The 4th International university student EV Autonomous driving Competition
+Dynamic object detection using a mono camera.
+
+모노 카메라를 이용한 동적 장애물 검출.
+
 https://github.com/yooburi/mono-dynamic-obstacle-detector
 
 <img src="https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961"  width="500" height="1000"/>
 
 ## 🚗 Mando HL Klemove Autonomous Driving Competition
+GPS based autonomous driving & Judgment layer design
+
+안전하고 효율적인 자율주행을 위한 판단 Layer 설계
+
 https://github.com/yooburi/Mandol_ws
 
-<img src="https://github.com/user-attachments/assets/b4ccc93b-dd37-4c66-bd16-64323058c0ef"  width="500" height="1000"/>
+<img src="https://github.com/user-attachments/assets/b4ccc93b-dd37-4c66-bd16-64323058c0ef"  width="300" height="600"/>
 
