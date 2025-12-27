@@ -67,3 +67,20 @@ https://github.com/yooburi/Mandol_ws
 
 <img src="https://github.com/user-attachments/assets/b4ccc93b-dd37-4c66-bd16-64323058c0ef"  width="300" height="600"/>
 
+## ROS2 Education
+ROS2 Education for club members
+
+ROS2 입문자를 위한 교육 진행
+
+https://github.com/yooburi/ROS2_education
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/67ea5bd6-af5d-43c5-9afb-01e7bea46a3c" alt="첫 번째 GIF 이미지" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2546a693-0db9-4d4c-a991-ea00ebed739c" alt="두 번째 GIF 이미지" width="400">
+    </td>
+  </tr>
+</table>
